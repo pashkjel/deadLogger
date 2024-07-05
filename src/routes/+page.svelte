@@ -12,4 +12,4 @@
     }
     </script>
 <input type="text" id="myInput">
-<button onclick = "getValue()">Get Value</button>
+<button onclick = "getValue()">Get Value</btton>
